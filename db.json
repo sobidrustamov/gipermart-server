@@ -1,0 +1,230 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Eshmat",
+      "lname": "Toshmatov",
+      "phone": 998911234567,
+      "email": "eshmat@gmail.com"
+    },
+    {
+      "phone": "+998976155182",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "phone": "+998976155182",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "banner": [
+    {
+      "id": 10,
+      "img": "https://olcha.uz/image/original/category_slider/y7S7UHqQFgUKNevQZhZjEowIelEeBR296dnGyRGygzuA5fMsc2uyf3WTpyhd.png",
+      "datakey": "komp"
+    },
+    {
+      "id": 11,
+      "img": "https://olcha.uz/image/original/category_slider/QPvBeWDfBz4L0IrPsGDkDP8hkzl7wSaZI0NsEOt7Y5wtPTJMF1hTcYJkgF10.png",
+      "datakey": "tel"
+    },
+    {
+      "id": 12,
+      "img": "https://olcha.uz/image/original/category_slider/oLTUy6lXH4gqWtFmpzyWUrQ7KK7NbjnI0ncFaYVLKEenlRXDLBU513mhB20B.png",
+      "datakey": "tv"
+    }
+  ],
+  "brand": [
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg",
+      "title": "MI"
+    }
+  ],
+  "category": [
+    {
+      "id": 50,
+      "title": "Смартфоны и планшеты",
+      "datakey": "tel",
+      "img": "https://olcha.uz/image/150x150/category/7jTR5D4A3C8N2G3WfjToAnGgmH4spQBUlGI8EBTOGgZWTLBi0SDpd4mIkhbW.png"
+    },
+    {
+      "id": 51,
+      "title": "Ноутбуки",
+      "datakey": "komp",
+      "img": "https://olcha.uz/image/150x150/category/Zzb97hGmwgC8EpGI3uVEwgdtvf4k9Wx404mtejcvF2qvbTSIA6HMben2CDJL.png"
+    },
+    {
+      "id": 52,
+      "title": "Авто мото товары",
+      "datakey": "avto",
+      "img": "https://olcha.uz/image/150x150/category/1T79CVFM1tfWRjatnqv7RsWiFzFhvAeMEhbMZjc1bNceJR7ara6LAMBrjDb5.png"
+    },
+    {
+      "id": 53,
+      "title": "Телевизоры",
+      "datakey": "avto",
+      "img": "https://olcha.uz/image/220x220/products/T7CMnM3ZGr5VSFVIZiW39G7Xseh4SOZEICrP9yd0VTg6B1jyzRCn8zSzIq7B.jpg"
+    },
+    {
+      "id": 54,
+      "title": "Бытовая техника",
+      "datakey": "avto",
+      "img": "https://olcha.uz/image/150x150/category/OGwWkM4vBkRSVzsTWZchBhWPm0r9NLbDbSUo3eMVGr0ABUuKuqx40QbL1Gjx.png"
+    },
+    {
+      "id": 55,
+      "title": "Спорт",
+      "datakey": "avto",
+      "img": "https://olcha.uz/image/150x150/category/D3OabRt09Me2IBTtMFSO4qRvU8Fi1dibN1EyHORVOZldBFSobpRR91j2vRLY.png"
+    }
+  ],
+  "tel": [
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/iphone-15-128-blue.jpg",
+      "title": "Apple iPhone 15 Plus 128GB Blue",
+      "brand": "Apple",
+      "oldprice": 1490900,
+      "price": 13904000,
+      "id": 100
+    },
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/iphone-15-256-black.jpg",
+      "title": "Apple iPhone 15 Plus 256GB Black",
+      "brand": "Apple",
+      "oldprice": 1690900,
+      "price": 15547000,
+      "id": 101
+    },
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/iphone-15-512-black.jpg",
+      "title": "Apple iPhone 15 Plus 512GB Blue",
+      "brand": "Apple",
+      "oldprice": 1730900,
+      "price": 16811000,
+      "id": 102
+    },
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/iphone-15-pro-max-blue-titanium.jpg",
+      "title": "Apple iPhone 15 Pro Max 128GB Black",
+      "brand": "Apple",
+      "oldprice": 1850900,
+      "price": 17530000,
+      "id": 103
+    },
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/iphone-15-pro-max-blue-titanium.jpg",
+      "title": "Apple iPhone 15 Pro Max 256GB Black titanium",
+      "brand": "Apple",
+      "oldprice": 1490900,
+      "price": 13904000,
+      "id": 104
+    },
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/iphone-15-pro-max-natural-titanium.jpg",
+      "title": "Apple iPhone 15 Pro Max Natural titanium",
+      "brand": "Apple",
+      "oldprice": 1990900,
+      "price": 18604000,
+      "id": 105
+    },
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/samsung-g-a15.jpg",
+      "title": "Samsung Galaxy A15",
+      "brand": "Samsung",
+      "oldprice": 2550000,
+      "price": 2465000,
+      "id": 106
+    },
+    {
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/samsung-g-a34.jpg",
+      "title": "Samsung Galaxy A34 5G 8/128 GB ",
+      "brand": "Samsung",
+      "oldprice": 2950000,
+      "price": 2765000,
+      "id": 107
+    }
+  ],
+  "tv": [
+    {
+      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg",
+      "title": "Product 1",
+      "brand": "MI",
+      "price": 660,
+      "id": 1
+    }
+  ],
+  "aksiya": [
+    {
+      "id": 1000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/aksiya1.png"
+    },
+    {
+      "id": 1001,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/aksiya2.png"
+    },
+    {
+      "id": 1002,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/aksiya3.png"
+    }
+  ],
+  "computers": [
+    {
+      "id": 400,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    },
+    {
+      "id": 401,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    },
+    {
+      "id": 402,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    },
+    {
+      "id": 403,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    },
+    {
+      "id": 404,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    },
+    {
+      "id": 405,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    },
+    {
+      "id": 406,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    },
+    {
+      "id": 407,
+      "title": "Ноутбук ASUS E406NA-BV014T, 4 ГБ/128 ГБ",
+      "price": 22329000,
+      "oldprice": 26190000,
+      "img": "https://raw.githubusercontent.com/sobidrustamov/images-server/master/komp/komp1.png"
+    }
+  ]
+}
